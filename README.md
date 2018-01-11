@@ -1,11 +1,3 @@
-# learnnextjs-cn-docs
+# 关于本书
 
-- [入门](01.get-started.md)
-- [页面之间的导航](02.navigate-between-pages.md)
-- [使用共享组件](03.using-shared-components.md)
-- [创建动态页面](04.create-dynamic-pages.md)
-- [使用路由掩码创建干净的URL](05.clean-urls-with-route-masking.md)
-- [干净URL的服务器端支持](06.server-side-support-for-clean-urls.md)
-- [为页面获取数据](07.fetching-data-for-pages.md)
-- [组件样式](08.styling-components.md)
-- [部署](09.depoying-a-nextjs-app.md)
+本书 forked from [developerworks/learnnextjs-cn-docs](https://github.com/developerworks/learnnextjs-cn-docs)。因项目文件目录改动较大，遂不提交到原项目。仅在此表达对原作者的敬意和感谢。
